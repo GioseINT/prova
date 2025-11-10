@@ -1,0 +1,42 @@
+@model IEnumerable<Prova.Models.AppointmentViewModel>
+@{
+    ViewData["Title"] = "Appointments";
+}
+<h1>Appointments</h1>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-controller="Pets" asp-action="Index" class="btn btn-outline-secondary">Pets</a>
+    <a asp-controller="Veterinaries" asp-action="Index" class="btn btn-outline-secondary">Veterinaries</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Date</th>
+            <th>Reason</th>
+            <th>Fee</th>
+            <th>Pet</th>
+            <th>Veterinary</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Date.ToString("yyyy-MM-dd")</td>
+            <td>@item.Reason</td>
+            <td>@item.Fee</td>
+            <td>@item.PetId</td>
+            <td>@item.VeterinayId</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+ </table>
+

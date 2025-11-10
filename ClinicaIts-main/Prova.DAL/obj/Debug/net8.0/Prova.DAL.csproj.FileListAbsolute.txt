@@ -1,0 +1,42 @@
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.deps.json
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.AssemblyReference.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfoInputs.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfo.cs
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.CoreCompileInputs.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\refint\Prova.DAL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.pdb
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\ref\Prova.DAL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.sourcelink.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.deps.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.runtimeconfig.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.AssemblyReference.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfoInputs.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfo.cs
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.CoreCompileInputs.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.sourcelink.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\refint\Prova.DAL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.pdb
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\Prova.DAL.genruntimeconfig.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.DAL\obj\Debug\net8.0\ref\Prova.DAL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\bin\Debug\net8.0\Prova.DAL.deps.json
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\bin\Debug\net8.0\Prova.DAL.runtimeconfig.json
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.AssemblyReference.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfoInputs.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.AssemblyInfo.cs
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.csproj.CoreCompileInputs.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\refint\Prova.DAL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.pdb
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\Prova.DAL.genruntimeconfig.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.DAL\obj\Debug\net8.0\ref\Prova.DAL.dll

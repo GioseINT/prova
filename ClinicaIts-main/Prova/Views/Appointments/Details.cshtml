@@ -1,0 +1,22 @@
+@model Prova.Models.AppointmentViewModel
+@{
+    ViewData["Title"] = "Appointment Details";
+}
+<h1>Appointment Details</h1>
+
+<dl class="row">
+    <dt class="col-sm-2">Date</dt>
+    <dd class="col-sm-10">@Model.Date.ToString("g")</dd>
+    <dt class="col-sm-2">Reason</dt>
+    <dd class="col-sm-10">@Model.Reason</dd>
+    <dt class="col-sm-2">Fee</dt>
+    <dd class="col-sm-10">@Model.Fee</dd>
+    <dt class="col-sm-2">Pet Id</dt>
+    <dd class="col-sm-10">@Model.PetId</dd>
+    <dt class="col-sm-2">Veterinary Id</dt>
+    <dd class="col-sm-10">@Model.VeterinayId</dd>
+</dl>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+

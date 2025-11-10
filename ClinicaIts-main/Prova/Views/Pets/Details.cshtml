@@ -1,0 +1,23 @@
+﻿@model Prova.Models.PetViewModel
+@{
+    ViewData["Title"] = "Pet Details";
+}
+<h1>Pet Details</h1>
+
+<div class="mb-2">
+    <strong>Name:</strong> @Model.Name
+</div>
+<div class="mb-2">
+    <strong>Species:</strong> @Model.Species
+</div>
+<div class="mb-2">
+    <strong>Breed:</strong> @Model.Breed
+</div>
+<div class="mb-2">
+    <strong>Date Of Birth:</strong> @Model.DateOfBirth.ToShortDateString()
+</div>
+
+<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+<a asp-action="Index" class="btn btn-secondary">Back</a>
+
+

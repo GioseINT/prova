@@ -1,0 +1,47 @@
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.AssemblyReference.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfoInputs.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfo.cs
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.CoreCompileInputs.cache
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.sourcelink.json
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.deps.json
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.pdb
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.Up2Date
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\refint\Prova.BLL.dll
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.pdb
+C:\Program Files\Notepadplus\Prova\Prova\Prova.BLL\obj\Debug\net8.0\ref\Prova.BLL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.AssemblyReference.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfoInputs.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfo.cs
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.CoreCompileInputs.cache
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.sourcelink.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.deps.json
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.BLL.pdb
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.Up2Date
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\refint\Prova.BLL.dll
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\Prova.BLL.pdb
+C:\Users\belbr\Desktop\ProgettoItsFinale\Prova\Prova\Prova.BLL\obj\Debug\net8.0\ref\Prova.BLL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\bin\Debug\net8.0\Prova.BLL.deps.json
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\bin\Debug\net8.0\Prova.BLL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\bin\Debug\net8.0\Prova.BLL.pdb
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\bin\Debug\net8.0\Prova.DAL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\bin\Debug\net8.0\Prova.DAL.pdb
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.AssemblyReference.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfoInputs.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.AssemblyInfo.cs
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.CoreCompileInputs.cache
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.csproj.Up2Date
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\refint\Prova.BLL.dll
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\Prova.BLL.pdb
+C:\Users\giose\Desktop\ClinicaIts-main\Prova.BLL\obj\Debug\net8.0\ref\Prova.BLL.dll

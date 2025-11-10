@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Prova
+build_property.RootNamespace = Prova
+build_property.ProjectDir = C:\Users\giose\Desktop\ClinicaIts-main\Prova\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\giose\Desktop\ClinicaIts-main\Prova
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Appointments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Appointments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Pets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Pets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Pets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Pets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Pets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Veterinaries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Veterinaries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Veterinaries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Veterinaries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Veterinaries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/giose/Desktop/ClinicaIts-main/Prova/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-idw960gzou

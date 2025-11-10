@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Prova.Models.PetViewModel>
+@{
+    ViewData["Title"] = "Pets";
+}
+<h1>Pets</h1>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Home</a>
+    <a asp-controller="Veterinaries" asp-action="Index" class="btn btn-outline-secondary">Veterinaries</a>
+    <a asp-controller="Appointments" asp-action="Index" class="btn btn-outline-secondary">Appointments</a>
+    
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Species</th>
+            <th>Breed</th>
+            <th>Date Of Birth</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Species</td>
+            <td>@item.Breed</td>
+            <td>@item.DateOfBirth.ToShortDateString()</td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+ </table>
+
+
